@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(215, 148, 246); 
+    font-family: "Alegreya", serif; 
+    font-size: 20px;
+}
+img {
+width: 300px;
+border-radius: 20px;
+}
+.Grupo{
+width: 400px;
+border-radius: 300px;
+border-style: outset; 
+}
+h2 {
+    text-align: center;
+    font-size: 35px;
+}
+.mejores {
+background-image: url(https://th.bing.com/th/id/OIP.NCCDOagZDyL6TNt7vPmirAAAAA?rs=1&pid=ImgDetMain);
+font-size: 20px;
+}
+.imagen{
+    text-align: center;
+}
+h1 {
+    font-size: 50px;
+}
